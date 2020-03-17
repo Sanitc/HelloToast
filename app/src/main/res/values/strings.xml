@@ -5,4 +5,6 @@
     <string name="button_label_value">0</string>
     <string name="toast_message">Hello Toast!</string>
     <string name="button_label_zero">Zero</string>
+    <string name="hello">Hello !</string>
+    <string name="currentcount">currentCount</string>
 </resources>
